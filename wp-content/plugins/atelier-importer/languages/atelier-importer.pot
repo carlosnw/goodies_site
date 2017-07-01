@@ -1,0 +1,379 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Atelier Demo Content\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Fri Sep 09 2016 14:47:55 GMT+0300 (Финляндия (лето))\n"
+"POT-Revision-Date: Fri Sep 09 2016 16:09:23 GMT+0300 (Финляндия (лето))\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "Atelier Demo Content"
+msgstr ""
+
+#. Description of the plugin
+msgid "Replicate any of the Atelier example sites in just a few clicks!"
+msgstr ""
+
+#. Author of the plugin
+msgid "Swift Ideas"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.swiftideas.com"
+msgstr ""
+
+#: ../atelier-importer.php:309
+msgid "Atelier Demo Content Importer"
+msgstr ""
+
+#: ../atelier-importer.php:316 ../includes/class.wordpress-importer.php:1041
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../atelier-importer.php:340
+msgid "Please Read!"
+msgstr ""
+
+#: ../atelier-importer.php:341
+msgid ""
+"This demo content importer has been built to make the import process as easy "
+"for you as possible. We've done what we can to ensure as little difficulty "
+"as possible. We have also gone the extra mile to add in the extra things are "
+"sorted for you, such as setting the home page, menu, and widgets - things "
+"that aren't possible with the standard WordPress Importer!"
+msgstr ""
+
+#: ../atelier-importer.php:342
+msgid "Steps to take before using this plugin."
+msgstr ""
+
+#: ../atelier-importer.php:344
+msgid ""
+"The import process will work best on a clean install. You can use a plugin "
+"such as WordPress Reset to clear your data for you."
+msgstr ""
+
+#: ../atelier-importer.php:345
+msgid ""
+"Ensure all plugins are installed beforehand, e.g. WooCommerce - any plugins "
+"that you add content to."
+msgstr ""
+
+#: ../atelier-importer.php:346
+msgid ""
+"Once you start the process, please leave it running and uninteruppted - the "
+"page will refresh and show you a completed message once the process is done."
+msgstr ""
+
+#: ../atelier-importer.php:349
+msgid ""
+"PLEASE NOTE: Due to the large amount of content on the main demo, we have "
+"provided a reduced version for you to import to ensure that you have no "
+"issues with it."
+msgstr ""
+
+#: ../atelier-importer.php:365
+msgid "Select what you'd like to import:"
+msgstr ""
+
+#: ../atelier-importer.php:366
+msgid "Demo Content"
+msgstr ""
+
+#: ../atelier-importer.php:367
+msgid "Widgets"
+msgstr ""
+
+#: ../atelier-importer.php:368
+msgid "Theme Options"
+msgstr ""
+
+#: ../atelier-importer.php:369
+msgid "Color Options"
+msgstr ""
+
+#: ../atelier-importer.php:370
+msgid "Import"
+msgstr ""
+
+#: ../atelier-importer.php:382
+msgid "Importing Demo"
+msgstr ""
+
+#: ../atelier-importer.php:383
+msgid "Please be patient it could take a few minutes."
+msgstr ""
+
+#: ../atelier-importer.php:385
+msgid "Note:"
+msgstr ""
+
+#: ../atelier-importer.php:385
+msgid ""
+"If the progress indicator doesn't change for a couple minutes. Repeat the "
+"import process."
+msgstr ""
+
+#: ../atelier-importer.php:392
+msgid "Close"
+msgstr ""
+
+#: ../atelier-importer.php:650
+msgid ""
+"Import demo content for Atelier by Swift Ideas. 1 click and you're ready to "
+"go!  <strong>By Swift Ideas</strong>"
+msgstr ""
+
+#. Name of the plugin
+msgid "WordPress Importer"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://wordpress.org/extend/plugins/wordpress-importer"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Import posts, pages, comments, custom fields, categories, tags and more from "
+"a WordPress export file."
+msgstr ""
+
+#. Author of the plugin
+msgid "wordpressdotorg"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://wordpress.org"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:135 ../includes/class.wordpress-
+#: importer.php:144 ../includes/class.wordpress-importer.php:195 ..
+#: /includes/class.wordpress-importer.php:199 ../includes/class.wordpress-
+#: importer.php:208
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:136
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:179
+msgid "All done."
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:179
+msgid "Have fun!"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:180
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:200
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:216
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:241
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:267
+msgid "Assign Authors"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:268
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as "
+"<code>admin</code>s entries."
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:270
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:280
+msgid "Import Attachments"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:283
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:287
+msgid "Submit"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:300
+msgid "Import author:"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:311
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:314
+msgid "as a new user:"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:322
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:324
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:325
+msgid "- Select -"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:375
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:426
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:466
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:512 ../includes/class.wordpress-
+#: importer.php:653
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:538
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:560
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:619
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:784
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:791
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:854
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:867
+msgid "Invalid file type"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:911
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:917
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:924
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:929
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:935
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:1034
+msgid "Import WordPress"
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:1056
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../includes/class.wordpress-importer.php:1057
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../includes/parsers.php:42 ../includes/parsers.php:72 ../includes/parsers.php:
+#: 80 ../includes/parsers.php:697 ../includes/parsers.php:727 ../includes/parsers.
+#: php:735
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../includes/parsers.php:43 ../includes/parsers.php:698
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../includes/parsers.php:84 ../includes/parsers.php:89 ../includes/parsers.php:
+#: 279 ../includes/parsers.php:469 ../includes/parsers.php:739 ..
+#: /includes/parsers.php:744 ../includes/parsers.php:934 ../includes/parsers.php:
+#: 1123
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
