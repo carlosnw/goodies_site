@@ -1,5 +1,4 @@
 node_modules
 .idea
 build/wp-content/cache/
-gulpfile.js
-build/wp-config.php
+build/gulpfile.js
